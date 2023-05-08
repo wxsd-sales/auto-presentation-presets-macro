@@ -34,9 +34,16 @@ The macro changes the monitor roles and layout settings of your Webex Room devic
 1. Download the ``auto-presentation-presets.js`` file and upload it to your Webex Room devices Macro editor via the web interface.
 2. Configure the Macro by changing the initial values, there are comments explaining each one.
 3. Enable the Macro on the editor.
-    
-    
-    
+
+
+## Validation
+
+Validated Hardware:
+
+* Room Kit Pro + Touch 10
+
+This macro should work on other Webex Devices with WebEngine support but has not been validated at this time.
+
 ## Demo
 
 *For more demos & PoCs like this, check out our [Webex Labs site](https://collabtoolbox.cisco.com/webex-labs).
